@@ -30,10 +30,7 @@ global.APIs = {
 }
 
 //Api Key\\
-global.APIKeys = {menu}
-	'.menu',
-}
-
+global.APIKeys = .menu
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -64,9 +61,9 @@ global.location = "Sudan " //ur location
 global.owner = ['+249127136261']
 global.ownertag = '+249127136261' //ur tag number
 global.botname = 'Ahmed Taj bot 👑 ٫' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
+global.linkz = "https://whatsapp.com/dl//LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
+global.websitex = https://whatsapp.com/dl//LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
+global.botscript = https://whatsapp.com/dl//LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "👑" //ur menu react emoji
 global.themeemoji = "Ahmed Bot" //ur theme emoji
 global.packname = "Ahmed Taj //ur sticker watermark packname
